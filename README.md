@@ -9,7 +9,7 @@
 
 ## Installation
 
-We harness the power of [pnpm workspaces](https://pnpm.io/workspaces) to keep our monorepo running smoother than a freshly buttered pancake.
+## We harness the power of [pnpm workspaces](https://pnpm.io/workspaces) to keep our monorepo running smoother than a freshly buttered pancake.
 
 ### Clone the repository
 
